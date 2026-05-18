@@ -2,6 +2,7 @@
 
 - Date: 2026-05-18
 - Status: accepted
+- Note: AI Info Radar was later extracted into its own repository. See ADR-0002.
 
 ## Context
 

@@ -20,12 +20,6 @@ build/
 *.pem
 *.key
 
-# Local data and generated outputs
-03_practice/ai-info-radar/data/*
-!03_practice/ai-info-radar/data/.gitkeep
-03_practice/ai-info-radar/outputs/*
-!03_practice/ai-info-radar/outputs/.gitkeep
-
 # OS / editor
 .DS_Store
 Thumbs.db

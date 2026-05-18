@@ -2,6 +2,8 @@
 
 - Date: 2026-05-18
 - Topic: Browser Use direction and the AI Info Radar practice project
+- Update: AI Info Radar has been extracted into its own repository:
+  https://github.com/danxiaozhiren/ai-info-radar.
 
 ## Browser Use Understanding
 
